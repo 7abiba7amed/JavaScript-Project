@@ -21,3 +21,7 @@ d- A message displayed on the top left side of the window tell the user Name
 
 e- after time is out a popup window will show to the user with his/her score, user win if the score is 
 greater than 50
+
+
+
+https://github.com/7abiba7amed/JavaScript-Project/assets/55756994/88cf3853-976c-4f2b-9d9c-614afc2daf17
